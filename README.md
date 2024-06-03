@@ -20,7 +20,7 @@ This project demonstrates real-time car counting using the YOLO (You Only Look O
 
 1. Clone this repository:
     ```sh
-    git clone https://github.com/yourusername/car-counter.git
+    git clone https://github.com/Aymanquad/Car-Counter-Object-Detection-.git
     cd car-counter
     ```
 
